@@ -15,10 +15,10 @@
       },
       {
         "channelId": [
-          "2",
           "3",
           "4",
-          "5"
+          "5",
+          "6"
         ],
         "genreCode": "1:7",
         "genreNameEn": "Movie",
