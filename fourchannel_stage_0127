@@ -27,10 +27,10 @@
   
       {
         "channelId": [
-          "3",
           "4",
           "5",
-          "7"
+          "6",
+          "12"
         ],
         "genreCode": "1:2",
         "genreNameEn": "Sport",
