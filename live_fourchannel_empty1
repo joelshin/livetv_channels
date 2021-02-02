@@ -2,6 +2,26 @@
   "returnCode": "S",
   "data": {
     "channelList": [
+  {
+
+        "channelId": [
+
+         
+
+          "403",
+
+          "404"
+
+        ],
+
+        "genreCode": "1:2",
+
+        "genreNameEn": "Sport",
+
+        "genreNameTh": "กีฬา"
+
+
+      },
       {
         "channelId": [
           "101",
@@ -22,17 +42,7 @@
         "genreNameEn": "Entertainment",
         "genreNameTh": "สารพันบันเทิง"
       },
-      {
-        "channelId": [
-         
-          "403",
-          "404"
-        ],
-        "genreCode": "1:2",
-        "genreNameEn": "Sport",
-        "genreNameTh": "กีฬา"
-      },
-      {
+          {
         "channelId": [
           "1",
           "2",
